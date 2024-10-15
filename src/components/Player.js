@@ -10,7 +10,7 @@ function Player() {
           <div className="info">
             <div className="current">current</div>
             <div className="title">Dayoung</div>
-            <div className="artist">JP</div>
+            <div className="artist">Jessica</div>
           </div>
           <div className="time">
             2:34 / 5:67
